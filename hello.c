@@ -4,6 +4,6 @@
 int main() {
     printSomething();
     printf("Hello World\n");
-    printf("Addition of 3 and 5 is %d\n", add(3,5));
+    printf("Sum of 3 and 5 is %d\n", add(3,5));
     return (0);
 }
